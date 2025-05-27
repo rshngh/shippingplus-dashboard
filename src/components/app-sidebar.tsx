@@ -9,7 +9,6 @@ import {
   ShoppingCart,
   MessageSquareHeart,
   SquareUser,
-  Package,
 } from "lucide-react";
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
